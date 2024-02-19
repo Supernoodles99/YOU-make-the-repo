@@ -1,4 +1,4 @@
-# YOU-make-the-repo
+# YOU make the repo
 
 EVERYONE gets to make the repo one bit (or byte, or kilobyte, or megabyte, or gigabyte, or terabyte) at a time, using forks and Pull Requests. this is by far the strangest project "i" have made. <br>
 
